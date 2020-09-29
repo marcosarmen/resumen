@@ -17,3 +17,8 @@ body{
     font-size: 20px;
 
 }
+#cabecera{
+    background: blue;
+    font-size: 19px;
+    color: burlywood;
+}
