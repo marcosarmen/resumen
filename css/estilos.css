@@ -1,11 +1,19 @@
 body{
-    background: black;
-
+    color: black;
+    text-align: center;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
-p{
-    color: blanchedalmond;
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 0 auto;
 }
-h1{
-    font-size: 17px;
+#container h1{
+    font-size: 20px;
 
 }
